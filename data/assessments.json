@@ -1,0 +1,294 @@
+{
+  "_source": "26/27 ICT Assessments Form (Responses) — https://docs.google.com/spreadsheets/d/1x7IcWrbMaOOwbjTBbBqrvZKZmL_Ah7twAkRAKyOqC-g/edit",
+  "_workingGeniusKey": {
+    "letters": "W=Wonder, I=Invention, D=Discernment, G=Galvanizing, E=Enablement, T=Tenacity",
+    "readingRule": "Six letters are read as RANKED order: first two = Genius (energizing), middle two = Competency (capable but draining), last two = Frustration (costly). CONFIRM against each person's official report before treating the Competency/Frustration split as final.",
+    "phases": "Ideation = Wonder + Invention. Activation = Discernment + Galvanizing. Implementation = Enablement + Tenacity."
+  },
+  "people": [
+    {
+      "name": "Riley Sloan",
+      "submitted": "2026-06-22",
+      "wgRaw": "E, I, G, T, D, W",
+      "genius": [
+        "Enablement",
+        "Invention"
+      ],
+      "competency": [
+        "Galvanizing",
+        "Tenacity"
+      ],
+      "frustration": [
+        "Discernment",
+        "Wonder"
+      ],
+      "gifts": [
+        "Mercy",
+        "Exhortation",
+        "Evangelist",
+        "Pastor",
+        "Helps"
+      ],
+      "aptitude": [
+        "Innovation",
+        "Faith",
+        "Optimism",
+        "Teamwork",
+        "Resourcefulness"
+      ],
+      "mbti": "ESFJ",
+      "loveLanguage": "Acts of Service",
+      "fieldHistory": "3 months North Africa; many short-term mission trips; social work background; existing friendships with Muslims, Hindus, and LGBTQ neighbors"
+    },
+    {
+      "name": "Leelee Shaw",
+      "submitted": "2026-07-20",
+      "wgRaw": "G, D, E, T, W, I",
+      "genius": [
+        "Galvanizing",
+        "Discernment"
+      ],
+      "competency": [
+        "Enablement",
+        "Tenacity"
+      ],
+      "frustration": [
+        "Wonder",
+        "Invention"
+      ],
+      "gifts": [
+        "Faith",
+        "Teaching",
+        "Mercy",
+        "Evangelist",
+        "Exhortation"
+      ],
+      "aptitude": [
+        "Education",
+        "Hospitality and Events"
+      ],
+      "mbti": "ENFJ",
+      "loveLanguage": "Primary: Quality Time; Secondary (tie): Physical Touch, Gifts, Words",
+      "fieldHistory": "2-year term in the Maldives (restricted-access, Muslim-majority); discovered she loves teaching"
+    },
+    {
+      "name": "Samuel Jacques",
+      "submitted": "2026-07-22",
+      "wgRaw": "G, I, E, D, T, W",
+      "genius": [
+        "Galvanizing",
+        "Invention"
+      ],
+      "competency": [
+        "Enablement",
+        "Discernment"
+      ],
+      "frustration": [
+        "Tenacity",
+        "Wonder"
+      ],
+      "gifts": [
+        "Training",
+        "Evangelist",
+        "Teaching",
+        "Discerning of Spirits",
+        "Exhortation"
+      ],
+      "aptitude": [
+        "Salesmanship",
+        "Faith",
+        "Determination",
+        "Innovation",
+        "Leadership"
+      ],
+      "aptitudeLowest": "Self-motivation",
+      "mbti": "ENFJ",
+      "loveLanguage": "Words of Affirmation, Physical Touch",
+      "fieldHistory": "2-year term in Nepal doing church planting movements (CPM)"
+    },
+    {
+      "name": "JT Liner",
+      "submitted": "2026-07-30",
+      "wgRaw": "W, I, D, G, E, T",
+      "genius": [
+        "Wonder",
+        "Invention"
+      ],
+      "competency": [
+        "Discernment",
+        "Galvanizing"
+      ],
+      "frustration": [
+        "Enablement",
+        "Tenacity"
+      ],
+      "gifts": [
+        "Exhortation",
+        "Faith",
+        "Evangelism",
+        "Prophecy"
+      ],
+      "aptitude": [
+        "Innovation",
+        "Faith",
+        "Visionary",
+        "Communication",
+        "Adaptability"
+      ],
+      "aptitudeWeakness": "Balance",
+      "mbti": "INFJ",
+      "loveLanguage": "Words of Affirmation, Receiving Gifts, Quality Time",
+      "fieldHistory": "4 years leading these groups; missions mobilizer at the church"
+    },
+    {
+      "name": "Sarah Abraham",
+      "submitted": "2026-08-08",
+      "wgRaw": "T, D, W, G, E, I",
+      "genius": [
+        "Tenacity",
+        "Discernment"
+      ],
+      "competency": [
+        "Wonder",
+        "Galvanizing"
+      ],
+      "frustration": [
+        "Enablement",
+        "Invention"
+      ],
+      "gifts": [
+        "Administration",
+        "Exhortation",
+        "Discerning of Spirits",
+        "Faith",
+        "Knowledge"
+      ],
+      "aptitude": [
+        "Self Motivation",
+        "Faith",
+        "Integrity",
+        "Balance",
+        "Teamwork"
+      ],
+      "mbti": "ISTJ",
+      "loveLanguage": "Quality Time 33%, Words of Affirmation 30%, Physical Touch 23%, Acts of Service 13%, Gifts 0%",
+      "fieldHistory": "NOT YET SUPPLIED — ask JT"
+    },
+    {
+      "name": "Travis Abraham",
+      "submitted": "2026-08-08",
+      "wgRaw": "I, D, W, G, T, E",
+      "genius": [
+        "Invention",
+        "Discernment"
+      ],
+      "competency": [
+        "Wonder",
+        "Galvanizing"
+      ],
+      "frustration": [
+        "Tenacity",
+        "Enablement"
+      ],
+      "gifts": [
+        "Wisdom",
+        "Apostolic",
+        "Leadership",
+        "Faith",
+        "Hospitality",
+        "Mercy"
+      ],
+      "aptitude": [
+        "Communication",
+        "Visionary",
+        "Leadership",
+        "Resourcefulness",
+        "Curiosity"
+      ],
+      "mbti": "ENTJ",
+      "loveLanguage": "Words of Affirmation 30, Quality Time 27, Physical Touch 23, Acts of Service 13, Gifts 7",
+      "fieldHistory": "NOT YET SUPPLIED — ask JT"
+    },
+    {
+      "name": "Rebecca Williams",
+      "submitted": "2026-09-29",
+      "wgRaw": "E, G, I, T, W, D",
+      "genius": [
+        "Enablement",
+        "Galvanizing"
+      ],
+      "competency": [
+        "Invention",
+        "Tenacity"
+      ],
+      "frustration": [
+        "Wonder",
+        "Discernment"
+      ],
+      "gifts": [
+        "Evangelism",
+        "Exhortation",
+        "Mercy",
+        "Leadership",
+        "Giving (possibly Faith)"
+      ],
+      "aptitude": [
+        "Optimism",
+        "Integrity",
+        "Leadership",
+        "Curiosity",
+        "Salesmanship"
+      ],
+      "aptitudeSecondary": [
+        "Faith",
+        "Self Motivation"
+      ],
+      "aptitudeGrowthArea": "Communication",
+      "mbti": "ESFJ",
+      "loveLanguage": "Quality Time (40%)",
+      "fieldHistory": "NOT YET SUPPLIED — ask JT"
+    }
+  ],
+  "tallies": {
+    "geniusCounts": {
+      "Wonder": 1,
+      "Invention": 4,
+      "Discernment": 3,
+      "Galvanizing": 3,
+      "Enablement": 2,
+      "Tenacity": 1
+    },
+    "frustrationCounts": {
+      "Wonder": 4,
+      "Invention": 2,
+      "Discernment": 2,
+      "Galvanizing": 0,
+      "Enablement": 3,
+      "Tenacity": 3
+    },
+    "mbti": {
+      "Feeling": 5,
+      "Thinking": 2,
+      "Judging": 7,
+      "Perceiving": 0,
+      "Extravert": 5,
+      "Introvert": 2
+    },
+    "giftsHeldByOnlyOnePerson": {
+      "Administration": "Sarah Abraham",
+      "Giving": "Rebecca Williams",
+      "Apostolic": "Travis Abraham",
+      "Wisdom": "Travis Abraham",
+      "Knowledge": "Sarah Abraham",
+      "Prophecy": "JT Liner",
+      "Pastor": "Riley Sloan",
+      "Helps": "Riley Sloan"
+    },
+    "giftsSharedWidely": {
+      "Exhortation": 6,
+      "Evangelism": 5,
+      "Faith": 5,
+      "Mercy": 4
+    }
+  }
+}

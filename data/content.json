@@ -1,0 +1,524 @@
+{
+  "meta": {
+    "title": "The Well Austin — Team Wiring & Four Fields",
+    "month": "October 2026",
+    "framework": "Four Fields of Kingdom Growth / 5 Parts — NoPlaceLeft International Coalition (noplaceleft.net/tools)",
+    "inputs": "team assessment sheet, responses 6/22–9/29/2026"
+  },
+  "founding": ["riley", "leelee", "samuel", "jt"],
+  "accents": {
+    "riley": "#c9622e", "leelee": "#2e8b7f", "samuel": "#d19a2a", "jt": "#7b5ea7",
+    "sarah": "#2f6fa8", "travis": "#b23a3a", "rebecca": "#7a9a3c"
+  },
+  "idByName": {
+    "Riley Sloan": "riley", "Leelee Shaw": "leelee", "Samuel Jacques": "samuel", "JT Liner": "jt",
+    "Sarah Abraham": "sarah", "Travis Abraham": "travis", "Rebecca Williams": "rebecca"
+  },
+
+  "overview": {
+    "kicker": "Seven people · what changed when the team grew from four",
+    "headline": "The three new people fill the exact gaps the original four lacked.",
+    "lede": "With only Riley, Leelee, Samuel and JT, the team had no Tenacity genius, no administration or giving gift, one Discernment genius, and no Thinkers — all four were _FJ. Sarah, Travis and Rebecca close every one of those. They also open two new risks that are worth naming before they harden.",
+    "arrivals": [
+      {
+        "id": "sarah", "role": "The finisher",
+        "body": "Tenacity is her #1 genius, Administration is her gift and Self Motivation is her top aptitude. She's the person this team structurally did not have. She's also now where every loose end will land."
+      },
+      {
+        "id": "travis", "role": "The pioneer",
+        "body": "The only Apostolic gift, plus Leadership and Wisdom. A Discernment genius and a Thinker who can ask the hard question without it costing him. Also an ENTJ joining a team an INFJ has led for four years."
+      },
+      {
+        "id": "rebecca", "role": "The second pair of hands",
+        "body": "The only Giving gift and a second Enablement genius, which takes the lone-servant weight off Riley. Near-identical wiring to Riley, which doubles the strength and the blind spot."
+      }
+    ],
+    "watch": [
+      { "title": "Sarah is the new single point of failure", "tab": "dynamics" },
+      { "title": "JT and Travis overlap on nearly every strength", "tab": "dynamics" },
+      { "title": "Riley and Rebecca are near-duplicates", "tab": "dynamics" }
+    ]
+  },
+
+  "genius": {
+    "Wonder":      { "phase": "Ideation",       "tag": "lone voice",     "tone": "warn", "note": "One genius against four frustrations. JT asks the question to a room that wants to move." },
+    "Invention":   { "phase": "Ideation",       "tag": "oversupplied",   "tone": "warn", "note": "Four inventors. You will never lack ideas; you will lack the capacity to carry them." },
+    "Discernment": { "phase": "Activation",     "tag": "covered",        "tone": "ok",   "note": "Up from one filter to three. Leelee is no longer the only person who can say “not yet.”" },
+    "Galvanizing": { "phase": "Activation",     "tag": "healthy",        "tone": "ok",   "note": "Three people who can get a room moving." },
+    "Enablement":  { "phase": "Implementation", "tag": "shared",         "tone": "ok",   "note": "Up from one to two. Riley no longer carries service alone — if the territory is split." },
+    "Tenacity":    { "phase": "Implementation", "tag": "one finisher",   "tone": "warn", "note": "Was zero. Now one — and she is serving six starters." }
+  },
+
+  "fields": [
+    {
+      "n": 1, "name": "Entry", "label": "Empty Field", "color": "#7b5ea7",
+      "tools": ["Oikos Map", "Luke 10 House of Peace Search"],
+      "owner": "Riley", "support": "JT (strategy) · Travis (Apostolic)",
+      "why": "Most teams start with an empty oikos map. Riley’s is already full of lost friends. JT’s Wonder and mobilizer role finds the ground nobody’s on, and Travis’s Apostolic gift is built for opening new ground.",
+      "watch": "Wonder frustrates Riley, Leelee, Samuel and Rebecca. Mapping and prayer walking will feel like stalling. Travis will want to move before the map is done."
+    },
+    {
+      "n": 2, "name": "Gospel", "label": "Seeded Field", "color": "#c9622e",
+      "tools": ["15-Second Testimony", "3 Circles", "4 Responses to the Gospel", "DBS: 7 Stories of Hope"],
+      "owner": "Samuel", "support": "Rebecca",
+      "why": "Evangelist or Evangelism is on five of seven profiles — this is the team’s home field. Samuel adds Salesmanship, the Training gift and Nepal reps; Rebecca adds Galvanizing and Salesmanship.",
+      "watch": "Five Feelers. Rejection lands personally, and you’ll linger on red lights instead of moving on. Rebecca’s growth area is Communication — give her the scripted tools."
+    },
+    {
+      "n": 3, "name": "Discipleship", "label": "Sprouted Field", "color": "#2e8b7f",
+      "tools": ["411 Training", "3/3rds Pattern", "Commands of Christ", "SWORD Bible Study"],
+      "owner": "Leelee", "support": "Sarah (rhythm & accountability) · Riley & Rebecca (care)",
+      "why": "Leelee teaches. Sarah supplies the Tenacity the field demands. Riley and Rebecca — two Enablement geniuses — keep new believers from quietly disappearing.",
+      "watch": "This field runs on weekly repetition for months, and only one person on the team is energized by that. Don’t let it become “ask Sarah.”"
+    },
+    {
+      "n": 4, "name": "Church", "label": "Harvested Field", "color": "#d19a2a",
+      "tools": ["Church Circle (Acts 2:36–47)", "Handy Guide to a Healthy Church"],
+      "owner": "Samuel", "support": "Leelee (health gate) · Sarah (admin & governance) · Rebecca (generosity)",
+      "why": "Samuel has actually planted in a movement. Leelee scores health honestly. Sarah holds the only Administration gift; Rebecca holds the only Giving gift.",
+      "watch": "Seven Judgers will call a gathering a church because it’s warm and well run. Samuel writes the definition first; Leelee scores against it."
+    },
+    {
+      "n": 5, "name": "Leadership Development", "label": "Multiplication", "color": "#2f6fa8",
+      "tools": ["5 Levels of Movement Leadership", "Leadership Toolbox"],
+      "owner": "JT + Travis", "support": "Samuel (Levels 1–3)",
+      "why": "JT mobilizes at Levels 4–5. Travis is Apostolic with Leadership and Wisdom. Samuel multiplies at Levels 1–3. All three are needed — if the decision rights are written down.",
+      "watch": "Two directors, neither finishes. Riley’s and Rebecca’s Enablement will do it for people. This team will fail at the “Leave” in MAWL."
+    }
+  ],
+
+  "matrixLegend": [
+    ["own", "Own it"],
+    ["support", "Support / gate"],
+    ["deploy", "Deploy, don’t own"],
+    ["costly", "Costly — delegate"]
+  ],
+  "matrix": {
+    "riley":   { "cells": [["own","owner"],["support","evangelist"],["support","care"],["deploy",""],["deploy",""]],
+                 "oneLine": "Access and care. Existing friendships with Muslims, Hindus and neighbors far from church are the rarest asset here. Social work adds trauma-informed skill nobody else has. Cap her list — she’s still the default “ask Riley.”" },
+    "leelee":  { "cells": [["deploy",""],["deploy",""],["own","owner"],["support","health gate"],["deploy",""]],
+                 "oneLine": "Discipleship and the quality gate. The Maldives taught her low-profile relational ministry; teaching is where she came alive. One of three Discernment geniuses — and the one with the teaching to match." },
+    "samuel":  { "cells": [["deploy",""],["own","owner"],["deploy",""],["own","owner"],["support","Levels 1–3"]],
+                 "oneLine": "The movement standard. Two years of Nepal CPM make him the only one who’s seen real multiplication. Tenacity is a frustration and self-motivation his lowest aptitude — pair him with Sarah, never solo." },
+    "jt":      { "cells": [["support","strategy"],["deploy",""],["costly","handed off"],["deploy",""],["own","co-owner"]],
+                 "oneLine": "Mobilization, entry strategy, Levels 4–5. Four years leading with Enablement and Tenacity both frustrations — four years on willpower. Hand off Field 3 not because he can’t, but because he’s overpaying." },
+    "sarah":   { "cells": [["deploy",""],["deploy",""],["support","rhythm"],["support","admin"],["deploy",""]],
+                 "oneLine": "The finisher. Owns no field outright — and sits underneath two of them. Field 3’s weekly rhythm and Field 4’s governance only work if she does, which is exactly why her load needs a cap." },
+    "travis":  { "cells": [["support","apostolic"],["deploy",""],["costly","delegate"],["deploy",""],["own","co-owner"]],
+                 "oneLine": "Opens new ground and develops leaders. The only Apostolic gift, plus Wisdom. Tenacity and Enablement both frustrate him, so Field 3 is not where his hours should go." },
+    "rebecca": { "cells": [["deploy",""],["support","gospel"],["support","care"],["support","generosity"],["deploy",""]],
+                 "oneLine": "Gospel partner to Samuel, second pair of hands in Field 3, and the only Giving gift for Field 4. Needs a written territory split with Riley before the team’s two Enablement geniuses collide." }
+  },
+
+  "tools": {
+    "riley":   ["Oikos Map", "Luke 10 House of Peace Search", "DBS: 7 Stories of Hope", "15-Second Testimony"],
+    "leelee":  ["3/3rds Pattern", "411 Training", "Commands of Christ", "SWORD Bible Study", "Church Circle (Acts 2:36–47)", "Handy Guide to a Healthy Church"],
+    "samuel":  ["15-Second Testimony", "3 Circles", "4 Responses to the Gospel", "411 Training", "Church Circle (Acts 2:36–47)", "5 Levels of Movement Leadership"],
+    "jt":      ["Oikos Map", "Luke 10 House of Peace Search", "5 Levels of Movement Leadership", "Leadership Toolbox"],
+    "sarah":   ["3/3rds Pattern", "4 Responses to the Gospel", "Church Circle (Acts 2:36–47)", "Handy Guide to a Healthy Church"],
+    "travis":  ["Luke 10 House of Peace Search", "3 Circles", "5 Levels of Movement Leadership", "Leadership Toolbox"],
+    "rebecca": ["15-Second Testimony", "3 Circles", "3/3rds Pattern", "Church Circle (Acts 2:36–47)"]
+  },
+
+  "training": [
+    { "id": "jt", "role": "Cast the why · own the pipeline", "body": "Mobilizer role, Visionary, Prophecy, Wonder. Opens with why no place left and why this church. Then owns the handoff from trained to sent." },
+    { "id": "travis", "role": "Raise the sent ones", "body": "Apostolic, Leadership and Wisdom. Teaches what it takes to be sent and to lead others who are. Co-owns the pipeline with JT once decision rights are written." },
+    { "id": "samuel", "role": "Teach the tools", "body": "Training gift, Salesmanship and Nepal reps. Demonstrates 3 Circles, the 15-Second Testimony and 411 live. He can say “here’s what it actually looked like.”" },
+    { "id": "leelee", "role": "Own the curriculum", "body": "Education aptitude, Teaching and Discernment. Sequences the material, runs 3/3rds practice, decides who’s ready to lead." },
+    { "id": "riley", "role": "Cross-cultural + follow-up", "body": "Social work and North Africa. Trains the church on other-faith friendships, trauma and crisis — then does the one-on-one follow-up. Capped list." },
+    { "id": "sarah", "role": "Run the system", "body": "Administration and Tenacity. Owns sign-ups, attendance, the 90-day tracker and the calendar, so training turns into people actually sent." },
+    { "id": "rebecca", "role": "Invite and follow up", "body": "Galvanizing and Enablement. Rallies the room to come, then makes sure the people who came are cared for. Teaches the church to share generously." }
+  ],
+
+  "dynamics": {
+    "solved": [
+      { "title": "The Tenacity gap → Sarah", "body": "Zero Tenacity geniuses became one. Tenacity is her #1 genius and Self Motivation her top aptitude. The thing that drained four people energizes her." },
+      { "title": "No filter → three filters", "body": "Discernment went from one person (Leelee) to three (Leelee, Sarah, Travis). “Not yet” is no longer one person’s burden." },
+      { "title": "No Thinker → two", "body": "Sarah (ISTJ) and Travis (ENTJ) can ask the hard question without it costing them what it costs a Feeler." },
+      { "title": "The back office was unowned → Sarah and Rebecca", "body": "Administration (Sarah) and Giving (Rebecca) now exist on the team. Four encouragers couldn’t grow either by trying harder." },
+      { "title": "Riley as lone Enablement genius → shared", "body": "Rebecca takes half the care and follow-up load — provided the territory is split on paper." }
+    ],
+    "risks": [
+      {
+        "n": 1, "title": "Sarah becomes the new single point of failure.",
+        "body": "One Tenacity genius serving six starters, and the only Administration gift. Everyone will route follow-through to her and call it teamwork. She is also an introvert among five extraverts and frustrated by Invention on a team with four Invention geniuses — she will go quiet and be steamrolled, and silence will be read as agreement.",
+        "do": "One intake channel and a visible list. A named back-up for every tracker she keeps. Ask for her read in writing before the meeting, and treat silence as “not yet,” never as yes."
+      },
+      {
+        "n": 2, "title": "JT and Travis — the number-one relational risk.",
+        "body": "An ENTJ with Apostolic, Leadership, Visionary and Communication joins a team an INFJ mobilizer has led for four years. They overlap on Invention, Visionary and Communication, and both are frustrated by Tenacity and Enablement. Two directors, neither finishes — and the rest of the team will quietly pick a side or go quiet.",
+        "do": "Write decision rights on one page this month (a starter draft is below). Meet one-on-one weekly. In team meetings, directors speak last."
+      },
+      {
+        "n": 3, "title": "Riley and Rebecca are near-duplicates.",
+        "body": "Both ESFJ, both Enablement genius, both Optimism, both frustrated by Discernment and Wonder. That doubles the strength and doubles the blind spot, and both will over-commit.",
+        "do": "Split territory in writing: names, days, fields. Each reviews the other’s load monthly, because neither can see her own."
+      },
+      {
+        "n": 4, "title": "Seven of seven are Judgers.",
+        "body": "Nobody on the team is a Perceiver. You converge fast and close options early. The late-arriving fact, the second option and the awkward question have nowhere natural to land.",
+        "do": "Before any decision that costs money or people, ask “what would change our mind?” Hold reversible-only-at-cost decisions for 48 hours."
+      },
+      {
+        "n": 5, "title": "Wonder is still a lonely one against four frustrations.",
+        "body": "JT asks the strategic question to a room where four people are frustrated by Wonder. Sarah and Travis have it as a competency, so JT isn’t quite alone, but nobody else is energized by it. It will keep being read as stalling.",
+        "do": "Give Wonder its own 30 minutes with no decision attached, separate from the decision meeting. Invite Travis and Sarah in as the two who can stay in the question."
+      },
+      {
+        "n": 6, "title": "Appreciation is still mismatched.",
+        "body": "Acts of Service is Riley’s alone (Sarah and Travis are at 13%). She’s thanked in a currency she doesn’t bank. And Gifts are near-zero for Sarah (0%) and Travis (7%) — a thoughtful present will mean little to either of them.",
+        "do": "Use the encouragement cheat sheet on the Rhythms tab. Take something off Riley’s list unasked. Don’t give Sarah or Travis gifts."
+      }
+    ],
+    "pairings": [
+      { "pair": "Samuel + Sarah", "body": "Samuel’s lowest aptitude is self-motivation; Sarah’s highest is self-motivation. She runs the check-in; he supplies the launch." },
+      { "pair": "JT + Sarah", "body": "JT names balance as his own weakness. Balance is Sarah’s #4 aptitude strength. She can hold him to the recurring thing on his calendar that isn’t ministry." },
+      { "pair": "Rebecca + the scripted tools", "body": "Rebecca’s growth area is Communication — a top strength for both JT and Travis. The scripted tools (3 Circles, 15-Second Testimony) are the right scaffold, with either of them critiquing her reps." },
+      { "pair": "Leelee + Sarah + Travis", "body": "Three Discernment geniuses. Agree who gives their read first so it isn’t always the loudest voice, and so Leelee isn’t the only one saying “not yet.”" },
+      { "pair": "Sarah + Rebecca", "body": "The back office. Administration plus Giving can keep the records, the budget and the generosity guideline between them — once they’ve agreed who owns which." }
+    ],
+    "spof": [
+      { "who": "Sarah", "carries": "Follow-through, admin, the tracker and the calendar", "fix": "Cap the list; name a back-up for every tracker; one intake channel." },
+      { "who": "Riley", "carries": "The oikos, the care, the default “ask Riley”", "fix": "Split territory with Rebecca in writing; cap open commitments." },
+      { "who": "Leelee", "carries": "Field 3 teaching and the Field 4 health gate", "fix": "Train a co-facilitator; Sarah and Travis share the filter." },
+      { "who": "Samuel", "carries": "The only first-hand picture of a real generation and a real church", "fix": "Put his definition on one page so it outlives any one conversation." },
+      { "who": "JT", "carries": "Wonder, the mobilizer voice and four years of history", "fix": "Hand off Field 3; share Field 5 under written decision rights." },
+      { "who": "Travis", "carries": "The only Apostolic gift and the Wisdom gift", "fix": "Riley’s oikos and JT’s pipeline give Field 1 two other doors in." },
+      { "who": "Rebecca", "carries": "The only Giving gift", "fix": "A written giving guideline built with Sarah, so money decisions aren’t one person’s." }
+    ],
+    "decisionRights": {
+      "intro": "A starting draft for JT and Travis to rewrite together. The point isn’t who is right; it’s that nobody has to find out by colliding. Fill in the last column on paper, sign it, and review it at the first 90-day mark.",
+      "rows": [
+        ["Team priorities for the quarter", "JT proposes (mobilizer); the whole team ranks; Leelee and Sarah gate for capacity.", ""],
+        ["Field 5 leader pathway — who is developed, released, sent", "Travis designs; JT owns the handoff from trained to sent.", ""],
+        ["New ground — a new Field 1 opening", "Riley, JT or Travis may propose; Riley’s oikos is tested first; the team commits only after a named finisher exists.", ""],
+        ["The church-facing missions voice", "Decide one primary voice per audience so the church hears one message.", ""],
+        ["Who chairs the weekly meeting", "Neither JT nor Travis. Rotate through someone else.", ""],
+        ["Tie-break when you disagree", "Name the person or the person outside the two of you who breaks the tie. Decide this before you need it.", ""]
+      ]
+    }
+  },
+
+  "rhythms": {
+    "one": {
+      "label": "The one rhythm that fixes most of this",
+      "items": [
+        "**Weekly, same day:** each person reports actual gospel conversations and where each contact sits in the 4 Responses. Numbers first, stories second. Sarah keeps the tracker.",
+        "**Leelee gates Field 3→4** against Samuel’s written definition. No gathering gets called a church until it’s scored out loud on the Church Circle.",
+        "**Every group has a named 90-day owner** who isn’t the person who had the idea. Assume the starter won’t finish — that’s the wiring, not a character flaw.",
+        "**Rotate one person each week to ask the hard question,** and let the quiet voices answer first. The directors speak last. Seven Judgers need dissent to be a role, not an act of disloyalty."
+      ]
+    },
+    "cadence": [
+      { "when": "Every week", "items": ["Gospel-conversation numbers, then stories", "The 3/3rds accountability question, read verbatim: “Did you do what you said?”", "One rotating person asks the hard question", "Idea session and decision session are separate meetings"] },
+      { "when": "Every month", "items": ["Load review: Riley, Rebecca and Sarah each report their open commitments against their cap", "JT and Travis check the decision-rights page", "Each person gets one specific encouragement in their own language"] },
+      { "when": "Every 90 days", "items": ["Revisit Four Fields ownership — it’s a starting deployment, not a ceiling on anyone’s calling", "Each person reviews their 90-day list", "Re-confirm Working Genius reports and update field history"] }
+    ],
+    "loop": {
+      "label": "The accountability loop",
+      "steps": [
+        ["Commit", "Written. A named partner and a date attached. Never solo."],
+        ["Report", "Weekly, same day. Numbers first."],
+        ["Ask", "Read the question verbatim: “Did you do what you said?” Don’t soften it into encouragement."],
+        ["Leave", "MAWL: Model, Assist, Watch, Leave. Hand it back and say you’re handing it back."]
+      ]
+    },
+    "meetings": [
+      { "title": "Idea meeting ≠ decision meeting", "body": "Never ask a filter to judge an idea in the room where it was born. Leelee’s, Sarah’s and Travis’s “not yet” belongs in the decision meeting, at least a day later." },
+      { "title": "Wonder gets 30 minutes", "body": "JT’s question, no decision attached. Travis and Sarah can stay in it with him; everyone else is allowed to listen." },
+      { "title": "Directors speak last", "body": "JT and Travis give their read after everyone else has. It protects Leelee’s filter, Sarah’s voice and the team’s trust in both of them." },
+      { "title": "Pre-reads for the quiet", "body": "Two introverts, five extraverts. Send the agenda 48 hours ahead and take written reactions before the room fills the air." },
+      { "title": "A rotating dissenter", "body": "One person each week is assigned the hard question. Disagreement becomes a role someone plays, not a personal act." }
+    ],
+    "encourage": {
+      "label": "How to encourage each other",
+      "tagline": "appreciation only counts in the language it’s received in",
+      "cards": {
+        "riley":   { "lang": "Acts of Service",        "tip": "Don’t thank her. Take something off her list, unasked." },
+        "leelee":  { "lang": "Quality Time",           "tip": "Unhurried, undistracted presence. A walk beats a long text." },
+        "samuel":  { "lang": "Words + Touch",          "tip": "Say it out loud and specifically. Hug, handshake, hand on the shoulder." },
+        "jt":      { "lang": "Words, Gifts, Time",     "tip": "Name the specific thing he did well. Small thoughtful gifts land hard." },
+        "sarah":   { "lang": "Quality Time · Words",   "tip": "Unhurried one-on-one time, then name the specific thing she finished. Skip the gifts (0%)." },
+        "travis":  { "lang": "Words · Quality Time",   "tip": "Name the specific call he got right. Time over presents — gifts register at 7%." },
+        "rebecca": { "lang": "Quality Time",           "tip": "Unhurried, undistracted time. A coffee beats a text." }
+      }
+    }
+  },
+
+  "people": {
+    "riley": {
+      "tagline": "Entry & access — the relationships this team can’t manufacture",
+      "ownsHead": "Field 1 — Entry (owner) · Field 3 — pastoral care",
+      "ownsBody": "Most Four Fields teams begin by manufacturing relationships with people far from church. Yours already exist. That makes you the front door, not a helper at it. Rebecca now shares the care load — if you two divide it on paper.",
+      "thrive": [
+        { "t": "Your oikos is already full.", "b": "Real friendships with Muslim, Hindu and non-Christian neighbors. Field 1 isn’t theoretical for you — it’s your Tuesday." },
+        { "t": "New believers stay because of you.", "b": "Enablement genius plus Pastor, Helps and Mercy. You are why people don’t quietly disappear after week three." },
+        { "t": "Cross-belief conversation is a skill, not nerve.", "b": "Social work training plus North Africa means crisis, trauma and other-faith dialogue are professional competence. Nobody else has that." },
+        { "t": "You make hard things feel possible.", "b": "Optimism, Resourcefulness and Teamwork top your aptitudes. Rooms get lighter when you believe something can work." }
+      ],
+      "struggle": [
+        { "t": "You have no natural filter.", "b": "Discernment is a frustration. You won’t instinctively spot the person who isn’t a person of peace, or the project that shouldn’t have started. Leelee, Sarah and Travis can — use them." },
+        { "t": "The 4 Responses will cost you.", "b": "Mercy + ESFJ + Feeling means moving on from a red light feels like abandonment. You will over-pursue people who have said no." },
+        { "t": "You are still the default “ask Riley.”", "b": "Rebecca shares Enablement now, but your name is the first one people say. Without a written split, you’ll absorb it all anyway." },
+        { "t": "Nobody speaks your language back.", "b": "Acts of Service is yours alone here (Sarah and Travis are at 13%). You’ll be thanked constantly and still feel unseen, because words aren’t what land for you." }
+      ],
+      "pitfalls": [
+        "Saying yes to the fourth thing because no feels unkind.",
+        "Doing the task for a new believer instead of watching them do it badly. That single habit stops multiplication.",
+        "Absorbing how the church talks about your friends without ever saying it costs you something.",
+        "Splitting the work with Rebecca by instinct instead of on paper — two of you will double-cover the same people."
+      ],
+      "with": {
+        "jt": "He generates more than anyone can absorb. Ask him to rank before you commit. “Not this quarter” won’t offend him.",
+        "leelee": "She is your filter. Take an idea to her before you say yes. Her “not yet” protects your calendar.",
+        "samuel": "He starts fast and fades. Don’t quietly finish his work — hand it back and tell him you’re handing it back.",
+        "sarah": "She finishes. Hand her the follow-through instead of absorbing it. She’ll tell you the real weight of your list — let her.",
+        "travis": "Fast mover; you’ll want to say yes to everything. Ask him for the one priority. His hard question is about the plan, not about you.",
+        "rebecca": "Your closest twin. Split territory in writing, and check each other’s load monthly — neither of you can see your own."
+      },
+      "ninety": [
+        "Build your oikos map on paper — actual names, not categories.",
+        "Pick three of them and start a Discovery Bible Study using the 7 Stories of Hope.",
+        "Split territory with Rebecca in writing: names, days, fields. Post it where the team can see it.",
+        "Write down a cap on open commitments, and ask one person to review your load monthly. You will not notice the overload yourself."
+      ],
+      "encourage": "Take something off her list without being asked. Don’t just thank her — she’ll hear it as noise.",
+      "guardrail": "If I’m the reason it works, it won’t multiply."
+    },
+
+    "leelee": {
+      "tagline": "Discipleship & the quality gate — the one who scores a group honestly",
+      "ownsHead": "Field 3 — Discipleship (owner) · Field 4 — Church health (gate)",
+      "ownsBody": "Teaching gift, Education aptitude, and two years discipling in a country where you couldn’t rely on a building or a program. You’re one of three Discernment geniuses now — and the one whose teaching makes the filter usable.",
+      "thrive": [
+        { "t": "You see what’s actually true first.", "b": "Discernment is your genius. You’ll know a group isn’t healthy while everyone else is still enjoying it." },
+        { "t": "Gift, skill and joy line up.", "b": "Teaching gift + Education aptitude + you discovered overseas that you love it. That alignment is rare and worth building around." },
+        { "t": "You can disciple without infrastructure.", "b": "The Maldives taught you relational, security-conscious ministry. That instinct transfers directly to diaspora and international communities here." },
+        { "t": "You start things, not just judge them.", "b": "Galvanizing is a genius too. You’re not only the brake — you can get a room moving." }
+      ],
+      "struggle": [
+        { "t": "Four inventors, one of whom you’re not.", "b": "Invention is a frustration for you and for Sarah, in a team with four Invention geniuses. Meetings will often feel like noise you have to sort." },
+        { "t": "You’ll get cast as the one who kills ideas.", "b": "You’re no longer alone as a filter, but the role still gets misread as negativity unless someone names it as a gift." },
+        { "t": "You’ll defer to the loudest voices.", "b": "JT’s four years and Travis’s directness are both heavy. If you go quiet, the team loses a filter — and silence will be read as agreement." },
+        { "t": "You own the field that needs the most Tenacity.", "b": "3/3rds runs weekly for months and Tenacity is only a competency for you. Sarah can carry the calendar so you can carry the teaching." }
+      ],
+      "pitfalls": [
+        "Saying “sure” in the room and holding the doubt privately.",
+        "Letting a gathering be called a church because the people in it are lovely.",
+        "Carrying discipleship alone because you happen to be good at it."
+      ],
+      "with": {
+        "jt": "He’ll fill the room with options. Ask for his top two. When he asks your read, give it before he gives his — he’ll defer to you if you go first.",
+        "samuel": "He launches, you sustain. Agree who owns week six before week one, every single time.",
+        "riley": "She will over-commit and not notice. You’re allowed to protect her calendar out loud.",
+        "sarah": "Your closest ally on Field 3. You teach; she keeps the calendar and tracker. Compare notes before meetings so neither of you speaks alone.",
+        "travis": "Direct, and a fellow filter. You can both hold the Discernment seat — back each other up instead of both waiting for the other to speak.",
+        "rebecca": "Another warm yes. Give her real Field 3 care to carry so it doesn’t stay all on you — and run her new ideas past your “not yet.”"
+      },
+      "ninety": [
+        "Write the 3/3rds rhythm down: fixed day, fixed time, 90-day written commitment.",
+        "Score one existing gathering out loud against the Church Circle, with the team in the room.",
+        "Voice one disagreement in every team meeting, even a small one. Build the muscle before you need it.",
+        "Hand the Field 3 calendar and attendance tracking to Sarah, and name and train a co-facilitator, so you aren’t the only person who can run the group."
+      ],
+      "encourage": "Unhurried, undistracted presence. A walk together beats a long, warm text.",
+      "guardrail": "My “not yet” is a gift. Silence isn’t humility."
+    },
+
+    "samuel": {
+      "tagline": "Gospel & multiplication — the only one who has seen the whole cycle work",
+      "ownsHead": "Field 2 — Gospel (owner) · Field 4 — Church (owner) · Field 5 — Levels 1–3",
+      "ownsBody": "You are the only person here who has run the full cycle in a movement context. That makes you the standard-setter: what counts as a generation, and what counts as a church.",
+      "thrive": [
+        { "t": "You know what real looks like.", "b": "Nepal gave you a working picture of multiplication. Without you the team will grade a warm living room far too generously." },
+        { "t": "You start conversations others won’t.", "b": "Galvanizing genius + Salesmanship + the Evangelist gift. Cold entry costs you less than it costs anyone else here." },
+        { "t": "You’re the best live demonstrator on the team.", "b": "Training gift + Teaching + real field stories. When you show 3 Circles, people believe it’s actually usable." },
+        { "t": "You can spot faithful people.", "b": "Leadership aptitude plus Discerning of Spirits — exactly what Level 1–3 multiplication requires." }
+      ],
+      "struggle": [
+        { "t": "You will not finish alone.", "b": "Tenacity is a frustration and self-motivation is your lowest measured aptitude. This is the honest one — it’s wiring, not character. Sarah is the structure you didn’t have; use it." },
+        { "t": "Momentum can outrun evidence.", "b": "Discernment is only a competency and Wonder frustrates you. You’ll want to move before anyone has asked whether it’s the right ground." },
+        { "t": "Rejection costs you more than you’ll say.", "b": "ENFJ and a Feeler. Field 2 means regular no’s, and Words of Affirmation is your primary language — the silence between wins is loud." },
+        { "t": "You’ll feel unseen doing good work.", "b": "Sarah and Travis are strong on Words too, but nobody knows to say it out loud unless you ask." }
+      ],
+      "pitfalls": [
+        "Starting a fifth thing before the third has been handed off.",
+        "Grading an Austin gathering easier than a Nepali one because these are friends.",
+        "Taking a solo assignment. You’ll quietly stall and then blame your own discipline for it."
+      ],
+      "with": {
+        "leelee": "She is your finisher and your filter. Never launch anything without first agreeing who owns week six.",
+        "jt": "Two generators in one room. Agree the single priority before the meeting or you’ll both leave with five.",
+        "riley": "She’ll absorb your unfinished work without telling you. Ask her directly what she’s currently carrying for you.",
+        "sarah": "Your finisher, by wiring: self-motivation is her top aptitude and your lowest. Let her run the weekly check-in — and don’t make her chase you.",
+        "travis": "Travis opens ground; you know what multiplication looks like. Show him Nepal — what counts as a generation — before he starts sketching Levels.",
+        "rebecca": "Your Field 2 partner. She’ll say yes warmly and follow up. Give her a clear job, not “help out.”"
+      },
+      "ninety": [
+        "Write one page: what counts as a generation, and what counts as a church. The team scores against it.",
+        "Take no solo assignments. Every commitment gets a named partner — Sarah first — and a date attached.",
+        "Set a standing weekly check-in that someone else schedules and runs.",
+        "Demonstrate 3 Circles live to the church at least twice this quarter."
+      ],
+      "encourage": "Say it out loud and specifically — name the thing he did. Handshake, hug, hand on the shoulder.",
+      "guardrail": "I don’t need more motivation. I need a partner and a date."
+    },
+
+    "jt": {
+      "tagline": "Mobilization, entry strategy & Level 4–5 leadership — the one who asks what nobody thought to ask",
+      "ownsHead": "Field 5 — Leadership (co-owner with Travis) · Field 1 — Entry strategy",
+      "ownsBody": "Your formal role and your wiring still match, which is rarer than it sounds. What’s changed is that you’re no longer the only person with the strengths for it. Mobilizing and developing leaders are now shared with someone who overlaps you almost line for line.",
+      "thrive": [
+        { "t": "You ask the question nobody else thinks to ask.", "b": "Only Wonder genius here. That is what keeps a team from being busy and fruitless — and four teammates who are frustrated by Wonder cannot supply it." },
+        { "t": "Role and wiring line up.", "b": "Mobilizer is a Field 1 and Field 5 job. Your Visionary, Prophecy and Communication strengths are pointed at the right target already." },
+        { "t": "You can make vision land.", "b": "Communication + Adaptability + Exhortation. You can move a room from interested to committed." },
+        { "t": "Four years of tenure is real credibility.", "b": "You’ve sustained this longer than anyone. That earns you the right to hand things off, not the obligation to keep them." }
+      ],
+      "struggle": [
+        { "t": "Four years of leading on willpower.", "b": "Enablement and Tenacity are both frustrations, and you’ve run groups anyway. That’s sustainable for a season, not a decade — and you named balance as your own weakness." },
+        { "t": "Two directors on one team.", "b": "Travis overlaps you on Invention, Visionary and Communication and is frustrated by the same two things you are. If it’s not written down, it becomes a quiet contest." },
+        { "t": "You generate more than the team can absorb.", "b": "Four of seven are frustrated by Wonder. When you open a big question the room may go quiet — read that as processing, not resistance." },
+        { "t": "Your voice lands heavier than you intend.", "b": "Mobilizer, four years in. If Leelee, Sarah or Rebecca defer to you, the team loses its filters. Two introverts — you and Sarah — will finish processing after the decision is already made." }
+      ],
+      "pitfalls": [
+        "Keeping Field 3 because handing it off feels like abandoning people.",
+        "Casting vision to a room that needed a decision.",
+        "Adding the next initiative instead of closing the current one — balance is your own named weakness, not a small note.",
+        "Competing with Travis for the room instead of dividing it."
+      ],
+      "with": {
+        "leelee": "Ask her read before you give yours. Every time. Otherwise she defers, and you lose a filter.",
+        "samuel": "Your best multiplier, and he won’t self-start. Give him a partner and a date — not more vision.",
+        "riley": "She will say yes to everything you propose. Rank your ideas before you bring them or she’ll try to carry all of them.",
+        "sarah": "The finisher you’ve never had. Give her a done-definition and a date, never a pile — and ask “what would you drop?” before she says yes.",
+        "travis": "Your biggest call. Write decision rights on one page this month and meet weekly, just the two of you. No surprises in front of the team.",
+        "rebecca": "She’s growing in Communication, which is your strength. Offer to critique her reps on the scripted tools. Ask her to rank her load too."
+      },
+      "ninety": [
+        "Hand off one discipleship group completely — named owner, written date, no shadow ownership.",
+        "Co-write the one-page decision rights with Travis, and review it at the 90-day mark.",
+        "Give Wonder its own 30 minutes on the calendar with no decision attached, and bring your top two ideas to the team — not your top eight.",
+        "Put one recurring thing on your calendar that isn’t ministry, and let Sarah hold you to it. Balance is the weakness you named yourself."
+      ],
+      "encourage": "Name the specific thing he did well. Small thoughtful gifts land hard. Unhurried time, not a crowd.",
+      "guardrail": "Four years of willpower isn’t a strategy. Hand it off before it hands itself off."
+    },
+
+    "sarah": {
+      "tagline": "Follow-through & the back office — the finisher this team never had",
+      "ownsHead": "Field 3 — rhythm & accountability · Field 4 — admin & governance",
+      "ownsBody": "Tenacity is your top genius and Administration is your gift. Field 3 runs on weekly repetition for months, and Field 4 needs someone to keep the records, the calendar and the governance. That isn’t a support role here — it’s the one this team structurally lacked.",
+      "thrive": [
+        { "t": "You finish.", "b": "Tenacity is your #1 genius — the only one on the team. What drains six people energizes you." },
+        { "t": "You turn good intentions into a calendar.", "b": "Administration gift + Self Motivation as your top aptitude. A 90-day written commitment is something you’ll keep and quietly enforce." },
+        { "t": "You are a second filter.", "b": "Discernment is your other genius, with Discerning of Spirits and Knowledge behind it. The team’s “not yet” no longer rests on one voice." },
+        { "t": "You hold your own balance.", "b": "Integrity and Balance sit next to Self Motivation. You’re the person Samuel needs and the person JT’s calendar needs." }
+      ],
+      "struggle": [
+        { "t": "You are the new single point of failure.", "b": "One Tenacity genius, six starters, the only Administration gift. Everyone will route follow-through to you and call it teamwork." },
+        { "t": "You’ll go quiet and be steamrolled.", "b": "The only ISTJ and one of two introverts among five extraverts. Silence will be read as agreement." },
+        { "t": "Invention frustrates you, on a team of inventors.", "b": "Four Invention geniuses. Idea meetings will feel like noise you’re expected to catch and carry out." },
+        { "t": "Picking up dropped balls costs you more than it looks.", "b": "Enablement is a frustration too. Being the organized one means you’ll be asked to rescue other people’s loose ends constantly." }
+      ],
+      "pitfalls": [
+        "Finishing things you were never asked to finish, then resenting it silently.",
+        "Agreeing to a plan you privately think is unrealistic because “it’s decided.”",
+        "Becoming the team’s memory and its police at once. Follow-up that only comes from you reads as criticism — make it a system."
+      ],
+      "with": {
+        "jt": "He’ll hand you a vision with no end date. Ask for the definition of done and the date before you accept it. Don’t absorb his open loops.",
+        "leelee": "Your closest ally. She sustains the teaching; you hold the calendar. Compare notes before meetings so one of you isn’t speaking alone.",
+        "samuel": "Your highest-value pairing. His lowest aptitude is self-motivation; yours is highest. A weekly check-in that you run is the structure he needs. Don’t mother him.",
+        "riley": "She says yes to everything. Show her the real list. Her yes needs your arithmetic.",
+        "travis": "He’ll move faster than you can document. Agree a pause rule: a new plan waits 48 hours before you commit to carrying it.",
+        "rebecca": "Together you’re the back office — Administration plus Giving. Decide who owns the money questions and who owns the records."
+      },
+      "ninety": [
+        "Write one page: what “done” means for a Field 3 group and how a group graduates. Get the team to sign it.",
+        "Ask for every meeting agenda 48 hours ahead and bring written reactions instead of improvising in the room.",
+        "Name and train a back-up for the tracker and the calendar, so you aren’t the only person who can run them.",
+        "Say one honest “I can’t carry that” early in the quarter, out loud, in the team meeting."
+      ],
+      "encourage": "Unhurried one-on-one time, then name the specific thing she finished. Skip the gifts — they score zero.",
+      "guardrail": "I finish things. I don’t finish everyone else’s."
+    },
+
+    "travis": {
+      "tagline": "Apostolic wiring & direction — the one who opens new ground",
+      "ownsHead": "Field 5 — Leadership (co-owner with JT) · Field 1 — Entry (apostolic)",
+      "ownsBody": "The only Apostolic gift, plus Leadership and Wisdom. You open new ground and develop the leaders to carry it. Field 5 needs that — and it needs it without competing with the mobilizer who has led this team for four years.",
+      "thrive": [
+        { "t": "You open new ground.", "b": "Apostolic is held by no one else on the team. Pioneering is a gift, not a hobby, and both Field 1 and Field 5 need it." },
+        { "t": "You can ask the hard question.", "b": "ENTJ, Discernment genius, Wisdom: a Thinker on a values-first team. Dissent costs you less than it costs anyone else." },
+        { "t": "You make direction legible.", "b": "Communication + Visionary + Leadership. You can say in two sentences where this is going." },
+        { "t": "You bring care into the strategy.", "b": "Wisdom + Hospitality + Mercy: a pioneer who doesn’t leave people behind. Don’t undersell that." }
+      ],
+      "struggle": [
+        { "t": "You and JT overlap on almost everything.", "b": "Invention, Visionary, Communication — and you’re both frustrated by Tenacity and Enablement. Two directors, neither finishes." },
+        { "t": "Tenacity and Enablement both frustrate you.", "b": "Follow-up and doing for others are the two things you’ll under-deliver. Sarah can carry the first; don’t let her be your only plan." },
+        { "t": "You’re bringing pace the team hasn’t agreed to.", "b": "New to a team that has been led for four years. They won’t say no. They’ll go quiet. Quiet isn’t yes." },
+        { "t": "Your hard question can sound like a verdict.", "b": "A Thinker’s question lands on Feelers as a judgment. Leelee, Riley and Rebecca will hear it differently than you mean it." }
+      ],
+      "pitfalls": [
+        "Starting a movement everyone else has to finish.",
+        "Treating the team’s four years as a baseline to improve rather than a history to understand first.",
+        "Deciding in the hallway what the team said it would decide together."
+      ],
+      "with": {
+        "jt": "Your biggest call. Write decision rights on one page this month, and meet weekly for twenty minutes, just the two of you. No surprises in front of the team.",
+        "leelee": "A fellow filter and your best check. Ask her read first. She may defer if you speak before she does.",
+        "samuel": "Different starters: he launches by galvanizing, you by direction. Learn what a generation actually looked like in Nepal before you design Levels around it.",
+        "riley": "She’ll say yes to your ideas. Ask what she’s already carrying before you hand her something.",
+        "sarah": "She finishes what you start, and she pays the price for it. Tell her the cost of changing a plan before you change it.",
+        "rebecca": "Strong Communicator meets growing one. Offer to critique her 3 Circles — and ask when she can hear it."
+      },
+      "ninety": [
+        "Co-write the one-page decision rights with JT by the end of the month: Field 5, the team agenda, the outside voice, the tie-break.",
+        "Spend your first thirty days listening: one-on-one with each teammate, asking what they’ve built that you shouldn’t break.",
+        "Bring one proposed new piece of ground to Riley and JT, and test it against Riley’s oikos before committing people.",
+        "Ask someone you trust to tell you when your hard question sounded like a verdict."
+      ],
+      "encourage": "Name the specific call he got right. Time over presents — gifts register at 7%.",
+      "guardrail": "If I’m moving faster than the team, I’m not leading. I’m leaving."
+    },
+
+    "rebecca": {
+      "tagline": "Giving, generosity & care — the second pair of hands",
+      "ownsHead": "Field 2 — Gospel (support) · Field 3 — care · Field 4 — generosity",
+      "ownsBody": "Evangelism, Salesmanship and Galvanizing put you next to Samuel on the home field. Enablement and Mercy make you the second pair of hands for new believers. And Giving is held by no one else, so the generosity side of church belongs to you.",
+      "thrive": [
+        { "t": "You are the second Enablement genius.", "b": "Riley no longer carries service alone. People get follow-up from two people who like doing it." },
+        { "t": "You rally people.", "b": "Galvanizing genius with Salesmanship and Evangelism. You can invite, and cold entry costs you little." },
+        { "t": "Giving is yours alone.", "b": "Church health isn’t only teaching and gatherings; it’s how the church shares what it has. Acts 2 has that in it. You’re the one who sees it." },
+        { "t": "People trust you quickly.", "b": "Integrity + Leadership + Optimism. People follow you willingly." }
+      ],
+      "struggle": [
+        { "t": "You and Riley are near-duplicates.", "b": "Both ESFJ, both Enablement genius, both Optimism, both frustrated by Discernment and Wonder. That doubles the strength and doubles the blind spot." },
+        { "t": "You have no natural filter.", "b": "Discernment is a frustration. You’ll over-extend to the wrong person of peace, just as Riley does. Leelee, Sarah and Travis can say “not yet.”" },
+        { "t": "Communication is your growth area — and Field 2 runs on it.", "b": "The scripted tools carry you: the 15-Second Testimony and 3 Circles. Practice them until the script is yours." },
+        { "t": "Over-commitment.", "b": "Enablement + Mercy + Giving: you’ll say yes to a need before checking the calendar, and give past what you intended." }
+      ],
+      "pitfalls": [
+        "Taking Riley’s overflow without agreeing on territory.",
+        "Giving to a need before asking whether it’s the church’s to meet.",
+        "Waiting until your testimony sounds polished before you share it."
+      ],
+      "with": {
+        "jt": "He generates more than anyone can absorb. Ask him to rank. Your yes is his default — pause before it.",
+        "leelee": "Your filter. Run people and projects past her; her “not yet” protects you.",
+        "samuel": "Your Field 2 partner. Watch him demonstrate 3 Circles, then do it with him in the room. Ask who owns week six.",
+        "riley": "Same wiring. Split territory explicitly: who has which names, which days. Check each other’s load — neither of you can see your own.",
+        "sarah": "The back office pair. Decide who owns the money questions and who keeps the records, and write it down.",
+        "travis": "A strong Communicator. Ask him to critique your 3 Circles. He’ll be direct; ask when you can hear it."
+      },
+      "ninety": [
+        "Split territory with Riley in writing: names, days, fields.",
+        "Learn the 15-Second Testimony and 3 Circles cold, and give each to three people this quarter.",
+        "Write a giving guideline with Sarah: what the church gives to, who decides, and a ceiling.",
+        "Set a cap on open commitments and share it with Riley."
+      ],
+      "encourage": "Unhurried, undistracted time. A coffee beats a text.",
+      "guardrail": "Yes is a budget, not a feeling."
+    }
+  }
+}
