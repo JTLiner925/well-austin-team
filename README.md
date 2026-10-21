@@ -1,4 +1,4 @@
-# The Well Austin — Team Wiring & Four Fields
+# ICT 9-month group — Team Wiring & Four Fields
 
 A static, tabbed site (Overview · Wiring · Four Fields · Dynamics · People · Rhythms). No build step.
 
